@@ -1,0 +1,5 @@
+pandas
+tqdm
+python-dotenv
+pinecone-client
+google-generativeai

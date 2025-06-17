@@ -1,0 +1,5 @@
+# requirements.txt
+langchain-google-genai
+python-dotenv
+langchain
+rich
