@@ -73,6 +73,14 @@ plt.tight_layout()
 plt.savefig("feature_importance.png")
 plt.show()
 
+
+
+from sklearn.metrics import r2_score
+
+r2 = r2_score(y_test, y_pred)
+print(f"R-squared Score: {r2:.2f}")
+
+
 # Custom input prediction
 sample_input = {
     "Distance_km": 16.42,
