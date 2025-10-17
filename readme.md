@@ -1,3 +1,3 @@
 # AI simple only console chatbot
 
-for examples only
+for examples only and only that
